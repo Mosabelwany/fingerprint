@@ -37,7 +37,7 @@
 </form>
 </div>
 <footer style="margin-top:30%;" align="center" >
-    All CopyRights Reserved to <a href="https://www.lnksync.com/">Lnksync</a> @<?php echo date("Y");?> 
+    All CopyRights Reserved to <a href="https://www.lnksync.com/">Lnksync</a> &copy; <?php echo date("Y");?> 
 </footer>
 </body>
 </html>
